@@ -1,0 +1,88 @@
+<!doctype html>
+<html>
+<head>
+<title> Curl Me Crazy</title>
+<style>
+body{
+background:url("https://th.bing.com/th/id/OIP.u7rllUE58K95KXCk1hv-kgHaEK?o=6&pid=Api&rs=1");
+background-size:cover;
+background-repeat:no-repeat;
+margin:0;
+}
+.wrap{
+width:100%;
+height:60px;
+margin:0;
+background:#366b82;
+}
+
+.navbar{
+height:60px;
+padding:0;
+margin:0;
+position:absolute;
+border-right:1px solid #54879d;
+}
+
+.navbar li {
+height:auto;
+width:150px;
+float:left;
+text-align:center;
+list-style:none;
+font-weight:bold;
+font-size:14px;
+font-family:new times roman;
+padding:0;
+margin:0;
+background:#366b82;
+}
+.navbar a{
+padding:22px;
+border-left:1px solid #54879d;
+border-right:1px solid #1f5056;
+text-decoration:none;
+color:white;
+display:block;
+}
+
+.navbar li:hover a:hover{
+background:#54879d;
+}
+
+
+
+</style>
+</head>
+
+<body>
+<div class ="wrap">
+<ul class ="navbar">
+<li><a href="index.html">Home</a></li>
+<li><a href="Services.html">Services</a></li>
+<li><a href="Gallary.html">Gallary</a></li>
+<li><a href="Contact Us.html">Contact Us</a></li>
+<li><a href="Game.html">Game</a></li>
+</ul>
+</div>
+</body>
+
+<p style="text-align:center;font-size:100px;color:white;"> Services & Pricelist</p>
+<p style="text-align:center;font-size:20px;color:white;">All New Hair Colour Clients</p>
+<p style="text-align:center;font-size:20px;color:white;"> Require Patch Testing 48 Hour Prior To There Appointment </p>
+<p style="text-align:center;font-size:30px;">Wash and Blow dry €20 </P>
+<p style="text-align:center;font-size:30px;"> Wash and Curly Blow dry €30 </P>
+<p style="text-align:center;font-size:30px;">Wash Cut & blow dry €40 </P>
+<p style="text-align:center;font-size:30px;">Half head Highlights €75 </P>
+<p style="text-align:center;font-size:30px;">Full Head Highlights €120 </P>
+<p style="text-align:center;font-size:30px;"> Roots Colour €45 </P>
+<p style="text-align:center;font-size:30px;"> Full Tint €75 </P>
+<p style="text-align:center;font-size:30px;"> Balyage €120 </P>
+
+
+
+
+
+</body>
+
+</html>

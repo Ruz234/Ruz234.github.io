@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Curl Me Crazy</title>
+<style>
+
+body{
+background:url("https://media.istockphoto.com/photos/hairdressing-tools-on-wooden-planks-background-with-copyspace-in-picture-id532334732?k=6&m=532334732&s=612x612&w=0&h=m8J2EexytHVtWEwGNlu8SWJM9gZ8k7ih2RsB1lbp15U=");
+background-size:cover;
+background-repeat:no-repeat;
+margin:0;
+}
+.wrap{
+width:100%;
+height:60px;
+margin:0;
+background:#366b82;
+}
+
+.navbar{
+height:60px;
+padding:0;
+margin:0;
+position:absolute;
+border-right:1px solid #54879d;
+}
+
+.navbar li {
+height:auto;
+width:150px;
+float:left;
+text-align:center;
+list-style:none;
+font-weight:bold;
+font-size:14px;
+font-family:new times roman;
+padding:0;
+margin:0;
+background:#366b82;
+}
+.navbar a{
+padding:22px;
+border-left:1px solid #54879d;
+border-right:1px solid #1f5056;
+text-decoration:none;
+color:white;
+display:block;
+}
+
+.navbar li:hover a:hover{
+background:#54879d;
+}
+
+
+
+</style>
+</head>
+
+<body>
+<div class ="wrap">
+<ul class ="navbar">
+<li><a href="index.html">Home</a></li>
+<li><a href="Services.html">Services</a></li>
+<li><a href="Gallary.html">Gallary</a></li>
+<li><a href="Contact Us.html">Contact Us</a></li>
+<li><a href="Game.html">Game</a></li>
+</ul>
+</div>
+
+<p style="text-align:center;"><image src = "image/Hair.png"/>
+<p style="text-align:center;font-size:80px;">Call Us Now To Book Your Consultation</p>
+<p style="text-align:center;font-size:40px;color:red;">01-8482754</p>
+<p style="text-align:center;font-size:18px;">A LITTLE BIT ABOUT US</p>
+<p style="text-align:center;font-size:18px;"> At Curl Me Crazy Beauty Salon we are passionate about one thing, Making you feel special, everyday.</p>
+<p style="text-align:center;font-size:18px;"> We offer a great deal of serivices in our salon.</p>
+<p style="text-align:center;font-size:18px;">Curl Me Crazy is the proud Winners of The Irish Hair and Beauty Awards 2018 and 2019.</p>
+<p style="text-align:center;font-size:18px;">We strive on our great Customer Service,and deliver a professional treatment everytime.</p>
+<p style="text-align:center;font-size:18px;">We look forward to seeing you soon</p>
+
+
+</body>
+</html>
